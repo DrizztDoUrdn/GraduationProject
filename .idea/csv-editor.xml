@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\3_SentimentAnalysis\3_SentimentTesting\BERT\Amazon\version_2\STN\mdeniz1\Ngrams\amazon_wrong_predictions_stn_ngram_mdeniz1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\3_SentimentAnalysis\3_SentimentTesting\BERT\Hepsiburada\version_2\3_TSLN\mdeniz1\hepsiburada_wrong_predictions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\3_SentimentAnalysis\3_SentimentTesting\BERT\Hepsiburada\version_2\STN\mdeniz1\Ngrams\hepsiburada_wrong_predictions_stn_ngram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\3_SentimentAnalysis\3_SentimentTesting\predictions_swnet_ngram_savasy.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\1_RawData\version_1\TestFile\comments_column_urunler.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\1_RawData\version_2\CsvFile\urunler.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\1_RawData\version_2\Emojis\emojis.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\1_RawData\version_2\ExtractedColumns\extracted_columns.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\2_PreProcessedData\version_1\1_stop_words_removed\stopwords_removed_amazon.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\2_PreProcessedData\version_1\2_normalized\normalized_amazon_yorumlar.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\2_PreProcessedData\version_1\3_lowercase\lowercase_amazon_yorumlar.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\2_PreProcessedData\version_2\1_StopWordsRemoved\stopwords_removed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\2_PreProcessedData\version_2\2_TextCorrected\corrected_comments.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\2_PreProcessedData\version_2\2_TextCorrected\corrected_comments_without_spaces.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\2_PreProcessedData\version_2\3_Lowercased\lowercased_comments.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\2_PreProcessedData\version_2\4_Trimmed\trimmed_comments.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_1\analysed_amazon.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_2\STN\ngram\analysed_amazon_stn_ngram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_2\STN\unigram\analysed_amazon_stn_unigram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_2\SWNetTR\ngram\analysed_amazon_swnet_ngram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_2\SWNetTR\unigram\analysed_amazon_swnet_unigram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_2\TSLN\ngram\analysed_amazon_tsln_ngram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_2\analysed_amazon_stn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_2\analysed_amazon_stn_main.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_2\analysed_amazon_tone.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_2\analysed_amazon_tsln.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Amazon\3_ClassifiedData\version_2\analysed_amazon_tsln_deneme.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\1_RawData\version_0\2_csv_file\urun_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\1_RawData\version_0\2_csv_file\urun_3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\1_RawData\version_0\2_csv_file\urun_4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\1_RawData\version_0\4_third_column_extracted\third_column_urun_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\1_RawData\version_0\4_third_column_extracted\third_column_urun_3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\1_RawData\version_0\4_third_column_extracted\third_column_urun_4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\1_RawData\version_1\seventh_column_extracted\seventh_column_hepsiburada_yorumlar.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\1_RawData\version_2\CsvFile\urunler.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\1_RawData\version_2\Emojis\emojis.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\1_RawData\version_2\ExtractedColumns\extracted_columns.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\1_stop_words_removed\third_column_urun_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\1_stop_words_removed\third_column_urun_3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\1_stop_words_removed\third_column_urun_4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\2_normalized\normalized_urun_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\2_normalized\normalized_urun_3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\2_normalized\normalized_urun_4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\2_normalized\normalized_urun_5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\3_lowercase\lowercase_urun_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\3_lowercase\lowercase_urun_3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\3_lowercase\lowercase_urun_4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_0\3_lowercase\lowercase_urun_5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_1\1_stop_words_removed\stopwords_removed_hepsiburada.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_1\2_normalized\normalized_hepsiburada_yorumlar.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_1\2_normalized\normalized_yorumlar_hepsiburada.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_1\3_lowercase\lowercase_yorumlar_hepsiburada.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_2\1_StopWordsRemoved\stopwords_removed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_2\2_TextCorrected\corrected_comments.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_2\2_TextCorrected\corrected_comments_without_spaces.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_2\3_Lowercased\lowercased_comments.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\2_PreProcessedData\version_2\4_Trimmed\trimmed_comments.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_0\analysed_urun_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_0\analysed_urun_3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_0\analysed_urun_4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_0\analysed_urun_5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_1\analysed_hepsiburada.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\STN\ngram\analysed_hepsiburada_stn_ngram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\STN\unigram\analysed_hepsiburada_stn_unigram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\SWNetTR\ngram\analysed_hepsiburada_swnet_ngram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\SWNetTR\unigram\analysed_hepsiburada_swnet_unigram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\TSLN\bigram\analysed_hepsiburada_tsln_bigram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\TSLN\ngram\analysed_hepsiburada_tsln_ngram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\TSLN\trigram\analysed_hepsiburada_tsln_trigram.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\TSLN\unigram\analysed_hepsiburada_tsln_final_case.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\analysed_hepsiburada_stn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\analysed_hepsiburada_stn_main.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\analysed_hepsiburada_tone.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Hepsiburada\3_ClassifiedData\version_2\analysed_hepsiburada_tsln.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\STN\Ngrams\Amazon\STN_main_polarity_ngrams.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\STN\Ngrams\Hepsiburada\STN_main_polarity_ngrams.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\STN\STN_main_polarity.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\STN\senti_turk_net.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\SW\Ngrams\Amazon\SWNetTR++_ngrams.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\SW\Ngrams\Amazon\amazon_ngrams.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\SW\Ngrams\Hepsiburada\SWNetTR++_ngrams.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\SW\Ngrams\Hepsiburada\hepsiburada_ngrams.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\SW\SWNetTR++.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\SW\StopWordListTR.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\TurkishSentiLiteralNet\Ngrams\Amazon\turkish_sentiliteralnet_ngrams.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\TurkishSentiLiteralNet\Ngrams\Hepsiburada\turkish_sentiliteralnet_ngrams.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dictionaries\TurkishSentiLiteralNet\turkish_sentiliteralnet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

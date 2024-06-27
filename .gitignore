@@ -1,0 +1,10 @@
+/.venv/
+/3_SentimentAnalysis/2_SentimentNormalization/Amazon/version_2/2_TSLN/2_Bigrams/
+/3_SentimentAnalysis/2_SentimentNormalization/Amazon/version_2/2_TSLN/3_Trigrams/
+/3_SentimentAnalysis/2_SentimentNormalization/Hepsiburada/version_2/2_TSLN/2_Bigrams/
+/3_SentimentAnalysis/2_SentimentNormalization/Hepsiburada/version_2/2_TSLN/3_Trigrams/
+/Adjustments/DictionaryAdjustment/NonSentiments/
+/Data/Amazon/4_NormalizedSentiment/version_2/TSLN/
+/Data/Hepsiburada/4_NormalizedSentiment/version_2/TSLN/
+/ZemberekData/
+/Dictionaries/

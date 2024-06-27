@@ -1,0 +1,51 @@
+product_id,product_name,sentiment_category
+1.0,"Airfryer Pişirme Kağıdı, Fritöz Yağlı Kağıdı, Yanmaz Kağıt 50 Adet...",0.67
+2.0,"Duracell Alkalin AA Kalem Pil, 1,5 V LR6/MN1500, 10’lu Paket",0.45901639344262296
+3.0,Xiaomi Mi Band 6 Akıllı Bileklik,0.5294117647058824
+4.0,"HP Smart Tank 519 Wireless All-in-One, Tarama, Kopyalama, Wi-Fi,...",0.6222222222222222
+5.0,"Copier Bond K380A-4 A4 Fotokopi Kağıdı, 210x297x500, 500 Yaprak",0.6470588235294118
+6.0,Maybelline New York Lifter Gloss Nemlendirici Dudak Parlatıcısı- 009...,0.54
+7.0,Xiaomi Mi Box S Multimedya 4K Ultra Hd (2nd Gen),0.5454545454545454
+8.0,"Rotring Tikky Versatil, Uçlu Kalem 0.7 mm, Açık Mavi",0.53
+9.0,Samsung Ms23J5133At/Tr Solo Mikrodalga,0.6666666666666666
+10.0,"Philips BG1024/15 Vücut Bakım Seti, Islak/Kuru",0.68
+11.0,Moliendo House Blend Filtre Kahve (Öğütülmüş Filtre Kahve) 250 g,0.5714285714285714
+12.0,Huawei Freebuds SE 2 Kulaklık - Beyaz,0.5434782608695652
+13.0,BIC Kids Kid Couleur Ultra Yıkanabilir Keçeli Boya Kalemi 12 Renk,0.53
+14.0,Everest SM-BT11 Usb Siyah 2in1 Bluetooth ve 2.4GHz Şarj Edilebilir...,0.46
+15.0,MSI GG CLUTCH GM08 GAMING MOUSE 4.200 DPI PIXART PAW3519 OPTIK SENSOR...,0.47959183673469385
+16.0,"Stanley Klasik Trigger-Action Seyahat Bardağı, 0.47 L, Yeşil",0.56
+17.0,Philips XC8349/01 SpeedPro Max Aqua Plus 8000 Serisi Kablosuz Dik...,0.6
+18.0,Spigen 27W Apple Hızlı Şarj & Samsung PPS Destekli USB-C Güç...,0.63
+19.0,Taktikal Led USB ŞARJLI Ultra Güçlü Mini Boy El Feneri [Enerji Sınıfı...,0.49
+20.0,Araç İçi Park Telefon Numarası Fosforlu Numaratör Oto Cam Kartı,0.54
+21.0,"Xiaomi Mi TV Stick 1080p Android TV Media Player, Siyah",0.6
+22.0,Narpump Damacana Pompası,0.66
+23.0,Omo Toz Çamaşır Deterjanı Active Renkliler İçin 7.5 kg 50 Yıkama,0.6081081081081081
+24.0,Crocs Crocband Unisex Yetişkin Black Terlik 43-44,0.51
+25.0,Kiko Milano Dudak Parlatıcısı - 3D Hydra Lipgloss 17 Pearly Mauve 61...,0.5757575757575758
+26.0,Selpak Havlu Kağıt 12'Li 1 Paket (1 x 12 Adet),0.5
+27.0,"Arzum Ar5063 Volume Pro Hava Uflemeli Sac Şekillendirici, Seramik,...",0.45588235294117646
+28.0,"Rotring Tikky Versatil, Uçlu Kalem 0.7 mm, Açık Mavi",0.57
+29.0,Apple AirPods (2.Nesil) ve Kablolu Şarj Kutusu,0.57
+30.0,"Xiaomi DVB4235GL Mi Wifi Pro Sinyal Yakınlaştırıcı Güçlendirici, 300...",0.6
+31.0,"Philips EP2220/10 Tam Otomatik Espresso Makinası, 1.8 L Kapasite,...",0.57
+32.0,"Philips EP5443/70 Tam Otomatik Espresso Makinesi, LatteGo Süt Sistemi,...",0.48
+33.0,"Paugge Ultra Sertifikalı Hdmi 2.1 Kablo - 8K 60Hz, 4K 120Hz, 4K 60Hz,...",0.5454545454545454
+34.0,"Singer metal, hızlı el dikiş makinesi",0.62
+35.0,"Xiaomi Redmi Note 9 128 GB Akıllı Telefon, Gri (Xiaomi Türkiye...",0.53
+36.0,"Logitech M220 Silent Kablosuz Fare, USB Alıcılı 2,4 GHz, 1000 DPI...",0.55
+37.0,"Philips 60W Led Ampul, 6500K Beyaz Işık, E27 Normal Duy",0.45161290322580644
+38.0,Veet Men Tüy Dökücü Krem Erkeklere Özel Normal Ciltler 200 ml,0.42857142857142855
+39.0,Maybelline New York Lash Sensational Sky High Maskara,0.5151515151515151
+40.0,Maybelline New York Super Stay Vinyl Ink Uzun Süre Kalıcı Likit Parlak...,0.29
+41.0,Vichy Dercos Anti-Dandruff Kepek Karşıtı Bakım Şampuanı - Normal ve...,0.52
+42.0,"Opalescence Beyazlatıcı Cool Mint Diş Macunu, 133 gr, 100 ml",0.63
+43.0,"TP-Link UB500, Bluetooth 5.0 Mini USB Adaptör, Siyah",0.5098039215686274
+44.0,Rexona Men Clinical Protection Stick Deodorant Active Fresh 45 ml,
+45.0,Apple iPhone 11 (128 GB) - Beyaz,
+46.0,"Stanley Klasik Vakumlu Termos 1,9 L, Yeşil",
+47.0,Rexona Clinical Protection Kadın Stick Deodorant Shower Clean 45 ml,
+48.0,Kahve Dünyası Filtre Kahve 250gr,
+49.0,"Vileda Turbo Pedallı Temizlik Seti, Siyah",
+50.0,Maybelline New York Cheek Heat Likit Allık - 15 Nude Burn,
