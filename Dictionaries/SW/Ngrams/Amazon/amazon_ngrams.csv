@@ -1,0 +1,936 @@
+word,value
+iyi,0.5
+iyisi,0.5
+uyumlu,0.5
+güzeldi,0.5
+beğendim,0.75
+seviyorum,0.5
+etkili,0.375
+gerçekçi,0.375
+kalitesi,0.5
+kullanılmalı,0.25
+teşekkürler,0.66
+beğenmedim,-0.75
+beğenemedim,-0.75
+bozuldu,-1.0
+ulaşmadı,-0.75
+almam,-0.5
+bayatlamış,-0.75
+mutsuzum,-0.375
+ezik,-0.375
+çalışmıyor,-0.5
+yakışmadı,-0.375
+çatlamış,-0.75
+parçalanmış,-0.5
+göndermediniz,-0.375
+dayanmıyor,-0.25
+çok iyi,0.9936113953590392
+tavsiye ederim,0.9923787117004396
+çok güzel,0.9929975271224976
+uzun süre,-0.7241560816764832
+gayet güzel,0.9932264685630798
+çok kötü,-0.997853457927704
+çok fazla,-0.9966835379600524
+ürün çok,0.9420161843299866
+hayal kırıklığına,-0.994540512561798
+güzel ürün,0.9792541265487672
+satın aldım,0.8500205278396606
+fiyat performans,0.9208803176879884
+iade ettim,-0.9760345220565796
+gayet iyi,0.9937176704406738
+tavsiye etmiyorum,-0.997926950454712
+fiyatına göre,0.8882623314857483
+ürün güzel,0.9873884916305542
+hayal kırıklığı,-0.9970184564590454
+sorun yok,0.99245947599411
+teşekkür ederim,0.99197655916214
+gerek yok,0.9651090502738952
+çok memnun,0.9940230250358582
+kesinlikle tavsiye,0.9935007691383362
+iyi ürün,0.9837570190429688
+memnun kalmadım,-0.9982750415802002
+elime ulaştı,0.9921690821647644
+hızlı şarj,0.9874988198280334
+çok hızlı,0.9710246324539183
+genel olarak,0.0
+kırıklığına uğradım,-0.996843695640564
+iyi değil,-0.9975510239601136
+çok az,-0.9556845426559448
+tavsiye etmem,-0.9983755350112916
+çok küçük,-0.9933655858039856
+zorunda kaldım,-0.95173978805542
+sipariş ettim,0.9662611484527588
+kısa sürede,0.7869439125061035
+2 gün,-0.6456618905067444
+çok uzun,-0.987058699131012
+şekilde geldi,0.0
+ürün gayet,0.9925497770309448
+en iyi,0.9935600757598876
+1 ay,-0.6379444599151611
+kalitesi çok,0.9924222826957704
+çok çabuk,0.951611876487732
+fena değil,0.7942405939102173
+çok kaliteli,0.9930144548416138
+ses kalitesi,0.5608121752738953
+rahatsız edici,-0.9962478280067444
+memnun kaldım,0.994166374206543
+biraz fazla,-0.9929734468460084
+çok çok,0.982729434967041
+hızlı kargo,0.993778109550476
+çok beğendim,0.9946784973144532
+teslim edildi,0.6057325005531311
+gerçekten çok,0.989566206932068
+sipariş verdim,0.9630969166755676
+malzeme kalitesi,0.933149516582489
+uygun değil,-0.9971765279769896
+1 gün,-0.6955662965774536
+uygun fiyatlı,0.9894475936889648
+kaliteli ürün,0.9906524419784546
+çok yavaş,-0.6151456236839294
+iade etmek,-0.9543222188949584
+iade edeceğim,-0.965825080871582
+çok zor,-0.974026083946228
+ürün orjinal,0.9925342798233032
+hoşuma gitmedi,-0.9982325434684752
+olarak geldi,0.0
+çok ince,-0.9972589015960692
+iş görür,0.0
+uygun fiyat,0.9942366480827332
+sıkıntı yok,0.9920172691345216
+güzel renk,0.979031503200531
+çok büyük,0.879717230796814
+çok memnunum,0.9944911003112792
+performans ürünü,0.9559744596481324
+ürün kaliteli,0.9924619793891908
+teşekkürler amazon,0.9939674139022828
+çok kullanışlı,0.9955341815948486
+çok rahat,0.994456112384796
+gayet başarılı,0.9940624833106996
+çok kalitesiz,-0.9982170462608336
+uzun ömürlü,0.9869824051856996
+sinir bozucu,-0.9981662631034852
+çabuk bitiyor,-0.975539207458496
+harika ürün,0.9898213148117064
+ürün hızlı,0.9896105527877808
+çok kısa,-0.5411705374717712
+göre iyi,0.520201563835144
+hoş değil,-0.9976876974105836
+çok hoş,0.99107027053833
+pişman oldum,-0.9663459062576294
+aynı zamanda,0.0
+1 hafta,-0.4902566969394684
+fark ettim,0.4703475534915924
+güzel çok,0.9911136031150818
+gayet yeterli,0.9929007291793824
+çok başarılı,0.9867520332336426
+olduğu aldım,0.9414960145950316
+rengi çok,-0.783705472946167
+ürün değil,-0.9984573125839232
+renk çok,-0.8342198729515076
+işe yaramıyor,-0.9942865967750548
+kalıcı değil,-0.99534672498703
+en azından,0.900847554206848
+teslim aldım,0.9947794675827026
+son kullanma,0.8924755454063416
+uygun fiyata,0.9948097467422484
+ürün kalitesi,0.9925249218940736
+3 gün,-0.5247247815132141
+aydır kullanıyorum,0.9934413433074952
+almanızı tavsiye,0.987852931022644
+çok kolay,0.9071646928787231
+en kötü,-0.9972937703132628
+güzel kullanışlı,0.9946099519729614
+göre çok,0.8885334730148315
+aldığım ürün,0.6077850461006165
+yapış yapış,-0.9972279667854308
+kokusu güzel,0.9755309224128724
+orijinal ürün,0.939809799194336
+etmek zorunda,-0.6846206784248352
+ürün gerçekten,0.9895702600479126
+sıcak su,0.8308340907096863
+şarj ediyor,0.9934276938438416
+çok düşük,-0.9773678779602052
+ürün iyi,0.9885955452919006
+tam olarak,0.4979913234710693
+olarak aldım,0.9723764657974244
+hızlı geldi,0.6032156944274902
+tavsiye ediyorum,0.9954159259796144
+çok uygun,0.9942321181297302
+şarj cihazı,0.955925226211548
+uzun zamandır,0.4985286593437195
+aldığım ürünün,-0.7563235759735107
+tane aldım,0.8856632113456726
+süper hızlı,0.9923576712608336
+ayda bozuldu,-0.9973515272140504
+geri iade,-0.9763952493667604
+hızlı şekilde,0.889299750328064
+filtre kahve,0.902064085006714
+kullanımı kolay,0.982174515724182
+diş macunu,0.7341473698616028
+kullandığım ürün,0.8232024908065796
+iş görüyor,0.0
+problem yok,0.9936158657073976
+değil çok,-0.985423982143402
+sorun yaşamadım,0.9940087795257568
+orjinal ürün,0.9884002208709716
+sık sık,0.751654326915741
+kalitesi iyi,0.9941784143447876
+güzel kaliteli,0.9925354719161988
+iyi olurdu,0.9050090909004213
+memnun değilim,-0.9960327744483948
+koruma bandı,0.551799476146698
+biraz hayal,-0.9790018796920776
+işe yaramadı,-0.7731440663337708
+denemek istedim,-0.5296725630760193
+iyi çalışıyor,0.9483426809310912
+rotring kalitesi,0.9741674065589904
+ürün orijinal,0.981779158115387
+paketleme çok,0.988413393497467
+kullanışlı ürün,0.9928429126739502
+tercih ettim,0.7686662077903748
+değil sadece,0.7048856019973755
+1 günde,0.8489840626716614
+şarjı çok,0.825404167175293
+aksi takdirde,-0.6610861420631409
+olduğunu gördüm,-0.721674919128418
+şekilde elime,0.6149995923042297
+açık geldi,-0.8316599726676941
+kokusu çok,-0.8860664963722229
+hiçbir sorun,0.7312062978744507
+kolay gelsin,0.9857950210571288
+tek sorun,0.8269320726394653
+ürünü alalı,0.8083717823028564
+ürünü aldım,0.8786684274673462
+çok etkili,0.9912675023078918
+bozuk çıktı,-0.9977828860282898
+konusunda çok,0.8896154165267944
+satın aldığım,0.6741258502006531
+haftadır kullanıyorum,0.9931047558784484
+açma kapama,0.5240858197212219
+performans olarak,0.5136186480522156
+çekim gücü,0.0
+kırıklığı oldu,-0.5141413807868958
+çok pratik,0.9610732793807985
+dikkat edin,-0.5096022486686707
+2 kere,-0.4855704307556152
+mi bana,-0.776964008808136
+aynı şekilde,0.0
+göre gayet,0.9860938787460328
+müşteri hizmetleri,0.7587037086486816
+adet aldım,0.9836867451667786
+renk güzel,0.9469550848007202
+alakası yok,-0.9967076778411864
+hızlı teslimat,0.9670016765594482
+apple tv,0.8151013851165771
+kullanım sonrası,0.9159066081047058
+olduğunu düşünüyorum,-0.8675477504730225
+ürünü iade,-0.9940940737724304
+hale geldi,0.0
+idare eder,0.0
+orijinal değil,-0.997209131717682
+sesi geliyor,-0.989403486251831
+fazla para,-0.9865779876708984
+bu ürün,0.9791355729103088
+işe yarıyor,0.9922263622283936
+işe yarar,0.9393470883369446
+çok yüksek,-0.9688227772712708
+biraz büyük,-0.9723185300827026
+çok yakın,0.951300084590912
+gönül rahatlığıyla,0.9874882698059082
+çok hafif,-0.9587148427963256
+sıcak tutmuyor,-0.997503697872162
+saat sıcak,-0.6671733260154724
+sıcak tutuyor,-0.9642205834388732
+6 ay,0.5091809630393982
+kağıt havlular,0.7958655953407288
+kahve yapıyor,0.521731436252594
+rol on,0.0
+koltuk altım,-0.7156023979187012
+herhangi sorun,-0.5461264848709106
+sorunsuz şekilde,0.992427408695221
+fiyat olarak,-0.6578733921051025
+olarak iyi,0.9120628833770752
+amazona teşekkürler,0.991293728351593
+dışında güzel,0.953843355178833
+para iadesi,-0.950001895427704
+çok şık,0.9947715401649476
+ürünü çok,0.9865651726722716
+hiçbir şekilde,-0.8458144664764404
+kırıklığına uğrattı,0.0
+geldi çok,0.9694082736968994
+en fazla,-0.5383557081222534
+en uygun,0.9858936071395874
+24 saat,0.9290238618850708
+olması çok,0.982819139957428
+olduğu iade,-0.9751235842704772
+olduğunu düşünmüyorum,-0.9946763515472412
+başarılı ürün,0.9884711503982544
+olarak güzel,0.9799541234970092
+tv ye,0.4988605678081512
+ara sıra,0.5028425455093384
+çok geç,-0.6707903742790222
+çok sık,0.9947715401649476
+yazık oldu,-0.984109342098236
+kutunun içine,0.6854589581489563
+alayım dedim,-0.7437877655029297
+kaliteli değil,-0.9974085688591005
+iade edip,-0.9870625138282776
+sağlam geldi,0.9919834733009338
+çok sert,-0.9924647808074952
+gerçekten güzel,0.9941508173942566
+yıldız kırdım,0.0
+kırık geldi,-0.991331934928894
+işe yaramaz,0.0
+çok sağlam,0.9934555888175964
+çok yapışkan,-0.9983648657798768
+tekrar satın,-0.5315172076225281
+ürün bence,0.9753515720367432
+tek tek,0.4686908423900604
+ürün geldi,0.973921537399292
+ürünün kalitesi,0.9912272095680236
+kullanma tarihi,0.5504809021949768
+kargo firması,0.9231338500976562
+şarj aleti,0.9585318565368652
+pil ömrü,0.961089253425598
+oldukça iyi,0.9936569333076476
+iyi olabilirdi,0.9100244641304016
+gün boyunca,0.0
+gün oldu,0.0
+çok basit,-0.994661509990692
+biraz yavaş,-0.8661190271377563
+geri gönderdim,-0.919025182723999
+açık şekilde,-0.5961211323738098
+iyi olur,0.907150149345398
+uzun süredir,0.0
+sorun değil,0.9848123788833618
+ürünü tavsiye,0.9916763305664062
+kullanıyorum çok,0.9936872124671936
+i̇dare eder,0.0
+i̇ade etmek,-0.9543222188949584
+en iyisi,0.993882179260254
+✅ ✅,0.5546220541000366
+mümkün değil,-0.9134842157363892
+bence çok,0.9856579899787904
+teşekkür ediyorum,0.9914947748184204
+gayet kaliteli,0.9934108853340148
+farkı yok,-0.9836373925209044
+biraz sert,-0.9840520620346068
+çok rahatsız,-0.9806538224220276
+şarj süresi,0.9814494252204896
+tam oturmuyor,-0.9973978996276855
+güzel sadece,-0.9480421543121338
+biraz zor,-0.9060539603233336
+aldıktan 2,0.5310270190238953
+yüzden iade,-0.9669511914253236
+aldım ürün,0.8487602472305298
+iade etmedim,-0.9976346492767334
+i̇ade edeceğim,-0.965825080871582
+ürün tavsiye,0.9913320541381836
+iade edilmiş,-0.9808837175369264
+sakın almayın,-0.9750829339027404
+süre dayanmıyor,-0.9940152764320374
+etkisi yok,-0.9969538450241088
+mekanizması bozuk,-0.995688021183014
+kalitesi güzel,0.9924522042274476
+kullanışlı değil,-0.997783362865448
+aldım memnun,0.9950165152549744
+dikkat etmek,0.5701280236244202
+olması güzel,0.9838933944702148
+küçük geldi,0.0
+uyumlu değil,-0.997056245803833
+senedir kullanıyorum,0.9935492873191832
+kullanıcı hatası,-0.9491572380065918
+zorunda kalıyorum,-0.6287253499031067
+değişim talep,-0.4181689918041229
+özelliği yok,-0.992805540561676
+baskı kalitesi,0.9045585989952089
+çift taraflı,-0.5249826908111572
+başka ürün,-0.8356086015701294
+kötü ürün,-0.9983824491500854
+i̇yi ürün,0.9837570190429688
+iade edemedim,-0.9979211688041688
+üründe sorun,-0.99708753824234
+hasarlı geldi,-0.9216313362121582
+çok seviyorum,0.9638324975967408
+ürün sadece,-0.9887323379516602
+vermeye gerek,0.577184796333313
+iade ederdim,-0.9309657216072084
+yapışkan his,-0.9969684481620787
+gayet memnun,0.9943863153457642
+cihaz çok,-0.967036783695221
+görüntü kalitesi,-0.8950441479682922
+bin malı,-0.5808576345443726
+çok önemli,0.6623884439468384
+fiyatı uygun,0.9921995997428894
+iki adet,0.7329967021942139
+kalitesi tartışılmaz,0.9843666553497314
+iyi yapıyor,0.9791051745414734
+güzel paketleme,0.9864400029182434
+aman aman,-0.9911388754844666
+tercih ederdim,0.6024565100669861
+aldım gayet,0.9942694902420044
+ürünü beğendim,0.9914416670799256
+en çok,0.9681817293167114
+etmek istiyorum,0.8302202820777893
+ses çıkarıyor,-0.9976285099983216
+çöp oldu,-0.0
+bağlantı kopuyor,-0.9956663846969604
+çok pahalı,-0.4998809993267059
+kısa süre,-0.7405790686607361
+gün geç,0.0
+kokusu yok,0.9878754019737244
+süre dayanıyor,0.0
+yıl garantili,0.984224796295166
+satın almayacağım,-0.995928943157196
+gayet kullanışlı,0.9956835508346558
+iyi performans,0.9743555784225464
+beklentimi karşılamadı,-0.9984482526779176
+emin değilim,-0.8332017064094543
+devam ediyor,0.0
+değil aynı,-0.8697206377983093
+beklentilerimi karşıladı,0.9950842261314392
+olursa olsun,0.5258954763412476
+gayet memnunum,0.9943517446517944
+hızlı teslim,0.9925274848937988
+rahatsız etmiyor,0.9931748509407043
+gün teslim,0.9790301322937012
+düzenli olarak,0.7256135940551758
+şarj kablosu,0.9327795505523682
+performansı çok,0.9887726902961732
+iyi çok,0.9900964498519896
+ürün uygun,0.991926372051239
+karar verdim,0.0
+biraz zaman,-0.5738080739974976
+çok iyiydi,0.9916651844978333
+15 gün,0.5197985768318176
+belli değil,-0.8190301656723022
+almak zorunda,-0.7358077764511108
+iyi geldi,0.992720901966095
+yırtık geldi,-0.9961066842079164
+hasar görmüş,-0.098
+çok kötüydü,-0.997744083404541
+iyi olduğu,0.8966934084892273
+zarar görmüş,0.0
+sağlam şekilde,0.9840609431266784
+sorunsuz geldi,0.9929406642913818
+aşırı derecede,-0.9147726893424988
+çok pembe,-0.7637062668800354
+renk tonu,0.0
+ürün sağlam,0.994220495223999
+5 yıldız,0.9895365238189696
+oldu çok,0.6939247846603394
+parlak değil,-0.9955611228942872
+kullanıyorum gayet,0.9953380823135376
+çok memnunuz,0.9930633902549744
+gerçekten iyi,0.9942396879196168
+kabul etmiyor,-0.9715476632118224
+sahte ürün,-0.9980692267417908
+kaliteli kullanışlı,0.9932212829589844
+geldi kargo,0.992027223110199
+amazona teşekkür,0.942459523677826
+bozuk ürün,-0.9976825714111328
+pratik değil,-0.993794083595276
+çok zayıf,-0.7486639618873596
+tatmin edici,0.9792574048042296
+ideal ürün,0.9916952252388
+çöpe attım,-0.9928876757621764
+sürekli olarak,0.0
+hayal kırıklığına uğradım,-0.9945927262306212
+fiyat performans ürünü,0.9623410701751708
+çok uzun süre,-0.9606919288635254
+ürün çok güzel,0.993474304676056
+kesinlikle tavsiye ederim,0.9945650100708008
+çok memnun kaldım,0.9950634837150574
+ürün gayet güzel,0.9939388036727904
+hayal kırıklığı oldu,-0.7365821599960327
+iade etmek zorunda,-0.9826202988624572
+kalitesi çok iyi,0.9946966171264648
+kesinlikle tavsiye etmem,-0.9981718063354492
+hayal kırıklığına uğrattı,0.0
+2 tane aldım,0.8810189962387085
+çok iyi değil,-0.9976230263710022
+son kullanma tarihi,0.7212164402008057
+çok kısa sürede,0.9483537673950196
+şekilde elime ulaştı,0.9873387813568116
+biraz hayal kırıklığına,-0.9959731698036194
+etmek zorunda kaldım,-0.9657981395721436
+gayet güzel ürün,0.9930540919303894
+almanızı tavsiye ederim,0.994772493839264
+fiyat performans olarak,0.6221389174461365
+ürün tavsiye ederim,0.9928144812583924
+uzun süre dayanmıyor,-0.9965612292289734
+hediye olarak aldım,0.9912592768669128
+açık şekilde geldi,0.0
+ürün çok iyi,0.9941523671150208
+uzun süre dayanıyor,0.0
+fiyatına göre iyi,0.9863653182983398
+rengi çok güzel,0.9908663630485536
+paketleme çok kötü,-0.9982422590255736
+amazona teşekkür ederim,0.9898350834846495
+çok iyi ürün,0.9934957027435304
+malzeme kalitesi çok,0.9847071766853333
+gerçekten çok güzel,0.9947450160980223
+çok rahatsız edici,-0.9977439641952516
+aldıktan 2 gün,-0.5346307754516602
+1 yıldız kırdım,0.3397755026817322
+yardımcı olabilir misiniz,0.8931361436843872
+hızlı şarj ediyor,0.994576930999756
+süper hızlı şarj,0.9950207471847534
+çift taraflı bant,-0.780454695224762
+kesinlikle tavsiye ediyorum,0.995152711868286
+ayrı ses yapıyor,0.0
+kalitesi çok kötü,-0.997862994670868
+ürün hızlı geldi,0.9897109866142272
+en iyi ürün,0.9937586784362792
+ürün gayet iyi,0.9947848916053772
+vermeye gerek yok,0.994944989681244
+alalı 1 ay,0.805330216884613
+çok güzel ürün,0.992547333240509
+çok güzel çok,0.9931476712226868
+1 aydır kullanıyorum,0.9939197301864624
+şarjı çok uzun,-0.9977477192878724
+fiyatına göre gayet,0.99049311876297
+ses kalitesi çok,0.9627421498298644
+günde elime ulaştı,0.9946540594100952
+çok hızlı geldi,0.8846242427825928
+ömür boyu garanti,0.9906189441680908
+son derece başarılı,0.9316993355751038
+iade edilmiş ürün,-0.9855917692184448
+çok çok iyi,0.9946075677871704
+kolay gelsin kargo,0.993927240371704
+kullanması çok zor,-0.99739408493042
+konusunda çok başarılı,0.9917935729026794
+tekrar satın almayacağım,-0.959831178188324
+renk çok güzel,0.992203950881958
+çok uygun fiyata,0.9957098960876464
+alırken dikkat edin,-0.5586141347885132
+çok çabuk bitiyor,-0.968800961971283
+olduğunu fark ettim,0.0
+gün teslim edildi,0.9584371447563172
+değişim talep ettim,0.6932401061058044
+çok iyi çok,0.993466317653656
+uzun süre kullanım,0.6026281714439392
+1 günde teslim,0.991933047771454
+güzel tavsiye ederim,0.9938911199569702
+kesinlikle tavsiye etmiyorum,-0.9984534978866576
+almak zorunda kaldım,-0.982260286808014
+uygun fiyata aldım,0.9939437508583068
+uzun süredir kullanıyorum,0.9944894313812256
+ürünü tavsiye ederim,0.9938220977783204
+yüzden 2 yıldız,0.9755018949508668
+rengi çok hoş,0.9907167553901672
+biraz hayal kırıklığı,-0.9973415732383728
+dudaklarda uzun süre,0.0
+genel olarak tavsiye,0.9773992300033568
+kargo çok hızlı,0.9946218729019164
+✅ ✅ ✅,0.6974847912788391
+yok aldığıma pişman,-0.9969237446784972
+hiçbir sorun yok,0.9931682348251344
+gayet güzel kaliteli,0.9937044978141784
+göre iyi ürün,0.9382889270782472
+uygun fiyatlı kaliteli,0.9934367537498474
+yenisini alayım dedim,-0.7578373551368713
+sahte rotring kaliteyi,-0.9981611371040344
+adet sipariş verdim,0.9733253121376038
+çok kaliteli ürün,0.9938790798187256
+ürün gerçekten çok,0.9919740557670592
+söze gerek yok,0.991174042224884
+madde in china,0.0
+1 ayda bozuldu,-0.9974268078804016
+ürün gayet başarılı,0.9950900077819824
+fiyatı piyasaya göre,0.5508960485458374
+hayal kırıklığı yarattı,-0.6481693387031555
+ürünü alalı 1,0.7431797981262207
+fiyatına göre güzel,0.9870829582214355
+fiyata alınabilecek en,0.991750419139862
+genel olarak çok,-0.8237596154212952
+çok hızlı şekilde,0.9592835903167723
+pek iyi değil,-0.9936882853507996
+olmasını tercih ederdim,0.546198844909668
+hiçbir sorun yaşamadım,0.9928869605064392
+2 adet aldım,0.9414958953857422
+çok hayal kırıklığına,-0.996752381324768
+kargo çok hızlıydı,0.9936816692352296
+şans vermek istedim,0.0
+uzun süre sıcak,-0.9235979318618774
+aldığım günden beri,0.9838618636131288
+göre çok iyi,0.9911770820617676
+3 gün geç,0.0
+hiçbir işe yaramıyor,-0.9933081865310668
+almanıza gerek yok,0.9948824644088744
+gayet güzel kullanışlı,0.9956340193748474
+i̇ade etmek istiyorum,-0.9710776805877686
+ucuz etin yahnisi,-0.9796283841133118
+tam hayal kırıklığı,-0.997743844985962
+sipariş ettim çok,0.9813663959503174
+gerçekten çok iyi,0.9947997331619264
+para vermeye gerek,-0.7965704202651978
+2 yıl garantili,0.9864288568496704
+çok iyi süt,0.9950996041297911
+lattego etiketi yoktu,0.6681298017501831
+lung ,0.0
+üst modellere fazla,-0.9938475489616394
+modellere fazla para,-0.996699869632721
+ürün çok hızlı,0.9935941100120544
+tamir 2 bin,0.5410747528076172
+2 bin il,0.0
+göz önüne alındığında,-0.4225089251995086
+kamera çok iyi,0.99020653963089
+normal diş macunu,-0.6955288648605347
+aşırı terleyen biriyim,-0.9784755706787108
+çok etkili ürün,0.9945474863052368
+mekanizması bozuk çıktı,-0.992893636226654
+ter kokusu yok,0.9943698048591614
+kullanıyorum çok memnunum,0.99607253074646
+çok ıslak bırakıyor,-0.9973933696746826
+herhangi sorun yok,0.9933090209960938
+değil aynı zamanda,0.0
+memnunum teşekkür ederim,0.9946154952049256
+dışında güzel ürün,0.946031391620636
+kullanıyorum sorun yaşamadım,0.9949111342430116
+şarjı çok çabuk,0.9904302954673768
+ürün çok kalitesiz,-0.9984394907951356
+kullanıcı hatası olduğunu,-0.9547117352485656
+özellikleri çok iyi,0.991690158843994
+mi bana 5,-0.608181357383728
+gayet güzel çok,0.9952054023742676
+teslimat çok hızlı,0.9930033087730408
+uzun süre gidiyor,-0.8548790812492371
+çok araştırarak aldım,0.7749009132385254
+paketleme iyi olabilirdi,0.9681162238121032
+cox ,-0.8133730292320251
+hızlı teslim edildi,0.7538145780563354
+ürünü çok beğendim,0.9941838383674622
+ertesi gün teslim,0.968794584274292
+6 gün sürdü,0.0
+geldi çok hızlı,0.980975866317749
+iade etme kararı,0.5329731702804565
+etme kararı aldım,0.0
+baskı kalitesi güzel,0.9877107739448548
+almaya karar verdim,0.9053903222084044
+geldi teşekkür ederim,0.9902045726776124
+görmüş şekilde geldi,0.0
+ürün güzel kaliteli,0.9932339787483216
+sağlam şekilde geldi,0.9908449053764344
+1 günde geldi,0.9924969673156738
+ürün kısa sürede,0.9872100353240968
+tavsiye ederim çok,0.9950706958770752
+ürün sorunsuz geldi,0.987800121307373
+gayet başarılı ürün,0.9948497414588928
+yapış yapış değil,-0.5862191915512085
+çok çok az,-0.9786868691444396
+uzun ömürlü değil,-0.995129942893982
+gayet iyi çalışıyor,0.9931237101554872
+performansı çok iyi,0.9934701919555664
+ürün güzel fatura,0.9887539148330688
+ürün elime ulaştı,0.9899870753288268
+paranıza yazık etmeyin,-0.995678961277008
+1 gün içerisinde,0.9408607482910156
+hale geldi 1,0.0
+hızlı kargo ürün,0.9929980039596558
+kalitesi tartışmaya kapalı,-0.9206203818321228
+uygun fiyatlı hızlı,0.98686021566391
+ürün öncede kullandığım,0.9441954493522644
+başladı idare eder,0.0
+2 adet sipariş,0.9504420161247252
+etmek gerçekten çok,0.9912443161010742
+paketleme çok iyi,0.9945605397224426
+fazla söze gerek,-0.909639060497284
+fiyatı uygun olduğu,0.9902248978614808
+uygun olduğu aldım,0.9907934069633484
+muhtemelen geri iade,-0.9517497420310974
+geri iade edeceğim,-0.8011211156845093
+dikkat edilmesi lazım,0.8870073556900024
+lira fazla verin,-0.9859825968742372
+piyasaya göre iyi,0.843166708946228
+biraz fazla para,-0.996910274028778
+çok iyi yapıyor,0.9806251525878906
+işini iyi yapıyor,0.9606879353523254
+hızlı sağlam geldi,0.9904398918151855
+içtiğim en kötü,-0.998319685459137
+ürün hızlı şekilde,0.9922534823417664
+kere şarj ettim,0.9776734113693236
+göre gayet başarılı,0.9935979843139648
+olarak çok iyi,0.9909255504608154
+olup olmadığını bilmiyorum,-0.7720060348510742
+kargo çok geç,-0.9267023801803588
+iade etmek istiyorum,-0.9710776805877686
+kutu yırtık kalemler,-0.9893961548805236
+çok sinir bozucu,-0.9980356097221376
+şarj edilebilir olması,0.9934648871421814
+dikkat etmek gerekiyor,0.8238005638122559
+2 ay oldu,0.0
+rahatsız edici değil,0.8354008793830872
+ay olmadan bozuldu,-0.9974406957626344
+yüzden 1 yıldız,0.9758384823799132
+paranızı çöpe atmayın,-0.9964330196380616
+geri iade ettim,-0.982710301876068
+yardımcı olur musunuz,0.929838240146637
+arıza verdi servise,-0.9965038299560548
+kalitesi çok güzel,0.9942798614501952
+geri göndermek zorunda,-0.926863431930542
+göndermek zorunda kaldım,-0.9938608407974244
+ürün çok kaliteli,0.9943728446960448
+olduğunu düşünerek aldım,0.8206717371940613
+anlatmaya gerek yok,0.9933356046676636
+7 saat sıcak,0.8663725256919861
+saat sıcak tutmuyor,-0.9980779886245728
+yüzden iade ettim,-0.9872286319732666
+dün aldım bugün,0.9894605278968812
+çok kullanışlı değil,-0.9983091354370116
+sadece 2 kullanımda,0.8012896776199341
+ezilmiş olarak geldi,0.0
+ürün bugün elime,0.990747570991516
+bugün elime ulaştı,0.9917421340942384
+ürün orijinal değil,-0.9984785914421082
+çekimi çok iyi,0.9827295541763306
+gayet güzel tavsiye,0.9944873452186584
+hayal kırıklığı yaşarsınız,-0.9328997135162354
+olarak çok memnun,0.9935665726661682
+aşırı rahatsız edici,-0.99711275100708
+uzun zamandır kullanıyorum,0.9942865967750548
+memnunum tavsiye ederim,0.9948816299438475
+alınabilecek en iyi,0.9949040412902832
+parasına göre iyi,0.8295304179191589
+malzeme kalitesi kötü,-0.9977203011512756
+çok sağlam değil,-0.9982479810714722
+gün geç geldi,0.0
+tane aynı rakam,0.4978888630867004
+çalışmasında sıkıntı yok,0.9947144389152528
+2 adet aldığım,0.9176692962646484
+adet aldığım ürünün,0.8298255801200867
+performans olarak çok,0.8819611668586731
+biraz rahatsız edici,-0.9970672726631165
+2 gün oldu,0.5802191495895386
+aldıktan 1 ay,0.6499133706092834
+yüzden 4 yıldız,0.97150057554245
+çok kötü kokuyor,-0.9981426000595092
+1 numara büyük,0.989927351474762
+numara büyük alın,-0.8913986682891846
+ürün ertesi gün,0.8579714894294739
+çok yapışkan hoş,0.679328203201294
+hayal kırıklığı yaşadım,-0.9672409296035768
+başarılı tavsiye ederim,0.9938795566558838
+neredeyse 1 ay,0.5325592160224915
+aynı fiyat aralığında,-0.5646326541900635
+fazla ses çıkartıyor,-0.9981223940849304
+ettim kabul edilmedi,-0.993515968322754
+aldım şok oldum,-0.9795216917991638
+cihazda sorun yok,0.9908859729766846
+müşteri hizmetlerini aradım,-0.8600982427597046
+sadece çok ince,-0.989143431186676
+çok kolay değil,-0.7191182374954224
+yok denecek az,-0.5339964032173157
+avrupa şarj cihazı,0.9683876633644104
+mükemmel durumda geldi,0.993603765964508
+çok iyi paketlenmiş,0.9943197965621948
+geri dönmedi geri,0.0
+satın aldığım ürün,0.6445767879486084
+koltuk altında yapışkan,-0.9932776093482972
+ürün en uygun,0.9948765635490416
+en uygun fiyat,0.9905808568000792
+gerçekten hoş değil,-0.9980937838554382
+çok güzel renk,0.9932780861854552
+renk güzel çok,0.9833139181137084
+etkili aynı zamanda,0.5620033144950867
+mucize beklememek lazım,-0.7855920195579529
+kullandığım en iyi,0.994958221912384
+arada indirime giriyor,0.9826869368553162
+gerçekten uzun süre,0.9583573341369628
+bozuk ürün gönderildi,-0.9961289167404176
+ürün gönderildi i̇ade,0.797096848487854
+en az 15,0.6599177718162537
+aldığıma pişman oldum,-0.9836030006408693
+en fazla 12,-0.6079762578010559
+fazla 12 saat,-0.9620524644851683
+45 saat sıcak,-0.6297122240066528
+aldım çok iyi,0.9955942034721376
+çok iyi oldu,0.6116914749145508
+ürün gayet kullanışlı,0.9957723021507264
+dikkat etmek lazım,0.864843487739563
+ürün gerekeni yapıyor,0.9948651194572448
+hava akışını engellediği,0.808894157409668
+fiyatı biraz uygun,0.9814258813858032
+fiyatına göre işlevsel,0.9833024144172668
+kullanışlı değil sadece,-0.9932292699813844
+çok uyumlu değil,-0.997267484664917
+değil genel olarak,-0.8340213298797607
+değil iş görüyor,-0.9499436020851136
+yapışıyor tavsiye etmiyorum,-0.9980308413505554
+iş görüyor tam,0.847978949546814
+uygun olmadığını düşünüyorum,-0.9972003698349
+beklentilerimi karşıladı amazon,0.9948670864105223
+karşıladı amazon farkı,0.9811490178108216
+amazon farkı teşekkürler,0.9928417205810548
+son kullanma tarihlerine,0.8200169801712036
+son kullanma tarihinin,0.8604846000671387
+duracell ,0.6594479084014893
+1 hafta boyunca,0.0
+kullanma fırsatım oldu,0.9937828183174132
+yaz aylarında çok,-0.6347118616104126
+1 senedir kullanıyorum,0.9942910671234132
+mi bana 2,-0.5964854955673218
+kullanıma bağlı olarak,0.0
+0 şarj geldi,0.990629255771637
+almaya gerek yok,0.9954836368560792
+yapıldı teşekkür ederim,0.994454562664032
+olması gayet iyi,0.9935558438301086
+ürün hızlı teslim,0.99397873878479
+teslim edildi teşekkürler,0.995391607284546
+edildi teşekkürler amazon,0.9946557283401488
+boş şekilde geldi,-0.6278653740882874
+saat şarj ettikten,0.9869784116744996
+sadece 2 gün,-0.8840429186820984
+anneme hediye olarak,0.9873387813568116
+çok memnun kalmıştım,0.9937415719032288
+çok hızlı şarj,0.9919639825820924
+hayatımda aldığım en,0.9879221320152284
+tam fiyat performans,0.9891676902770996
+kaliteli ürün uygun,0.9940172433853148
+ürün uygun fiyat,0.9931091070175172
+gayet iş görür,0.0
+biraz yavaş çalışıyor,-0.9929686188697816
+ürünü almanızı tavsiye,0.9906489253044128
+almanızı tavsiye etmiyorum,-0.9985471367836
+şimdiye sahip olduğum,0.8763347268104553
+sahip olduğum en,0.9942280054092408
+olduğum en kötü,-0.9979300498962402
+ambalajı yırtık geldi,-0.9973675608634948
+paketlemesi çok kötüydü,-0.9983667731285096
+çok iyi olur,0.9685462117195128
+fiyatına göre çok,0.9168369770050048
+uygun fiyata denk,0.9890025854110718
+dışında sorun yok,0.993314564228058
+hızlı güvenli şekilde,0.9507565498352052
+tane aldım 1,0.8525193333625793
+1 puan kırdım,0.0
+amazona yakışmayan paketleme,-0.9961758852005004
+çok teşekkür ederim,0.9929674863815308
+açılmış olarak geldi,0.0
+paket açık geldi,-0.9691048860549928
+2 yıldız verdim,0.9856736063957214
+harika ürün yoğun,0.9880177974700928
+aksi takdirde güzel,-0.9483473300933838
+hoş değil renk,-0.998444139957428
+hızlı kargo teşekkürler,0.994896113872528
+çok severek kullanıyorum,0.9961681962013244
+alır mıyım evet,0.9351472854614258
+paketleme hoşuma gitmedi,-0.9984720349311828
+👍 👍 👍,0.9877166152000428
+yorumlar nedeniyle aldım,-0.5730348825454712
+çok uzun sürmüyor,-0.6116997599601746
+çok uzun ömürlü,0.9924484491348268
+zorunda kaldım yüzden,-0.9760489463806152
+hiçbir etkisini göremedim,-0.997840404510498
+üründen memnun kalmadım,-0.9982739686965942
+ilk sürdüğünüz ruju,0.8450606465339661
+pek hoş değil,-0.9954100251197816
+maalesef hayal kırıklığı,-0.9970191717147828
+ağzı açık geldi,-0.9138305187225342
+yok hayal kırıklığına,-0.9973959922790528
+elime ertesi gün,0.8998345732688904
+ertesi gün ulaştı,0.886640727519989
+tek kötü tarafı,0.6892377734184265
+güzel ürün hızlı,0.9899429082870485
+ürün hızlı teslimat,0.9934493899345398
+üründen çok memnun,0.994506537914276
+sipariş edeceğim umarım,0.9757260680198668
+ürünü i̇ade etmek,-0.9472862482070924
+kesınlıkle tavsiye ederim,0.9939725995063782
+kullanmak amacıyla aldım,0.9641055464744568
+birlikte geliyor kutu,0.9954681396484376
+süper hızlı teslimat,0.9932973980903624
+adaptör almak zorunda,-0.698154628276825
+aylık kullanım sonrası,0.9741908311843872
+i̇ngiltere versiyonu olarak,0.0
+3 yıldız veriyorum,0.9799365997314452
+almanızı tavsiye etmem,-0.99850594997406
+i̇lk gönderilen üründe,0.5594004392623901
+gönderilen üründe sorun,-0.9967654943466188
+üründe sorun yaşamıştım,-0.9896542429924012
+sorun yaşamıştım ikinci,-0.8155195116996765
+yaşamıştım ikinci üründe,-0.744594156742096
+ikinci üründe yeni,0.7912268042564392
+üründe yeni görünmüyordu,-0.8962916731834412
+yeni görünmüyordu üzerinde,0.0
+görünmüyordu üzerinde büyük,0.0
+üzerinde büyük çizikler,0.0
+büyük çizikler bağlantı,-0.7508466839790344
+çizikler bağlantı sorunları,-0.9091809391975404
+bağlantı sorunları yaşıyorum,-0.9769467711448668
+sorunları yaşıyorum ürünü,-0.9945359230041504
+yaşıyorum ürünü çalıştırmak,-0.6772419810295105
+ürünü çalıştırmak fişi,0.8745478391647339
+çalıştırmak fişi çekip,-0.6587865352630615
+fişi çekip takmak,0.7196102738380432
+çekip takmak zorunda,-0.9726409316062928
+takmak zorunda kalıyorum,-0.9563191533088684
+zorunda kalıyorum durumu,-0.6842586398124695
+kalıyorum durumu normal,0.9198549389839172
+durumu normal bulmuyorum,-0.9971975088119508
+normal bulmuyorum tavsiye,0.673782229423523
+bulmuyorum tavsiye etmiyorum,-0.998342514038086
+düşük ses seviyesi,-0.9460191130638124
+ses seviyesi usb,0.5308407545089722
+seviyesi usb birimindeki,0.8215460777282715
+usb birimindeki dosyaları,0.4471178948879242
+birimindeki dosyaları cihazdan,0.0
+dosyaları cihazdan indirilmemişse,-0.833091139793396
+cihazdan indirilmemişse okumuyor,0.7711591124534607
+eski tv kutum,0.7942627668380737
+tv kutum vardı,0.9532443284988404
+kutum vardı hala,0.9627519845962524
+vardı hala kutudan,0.922293186187744
+hala kutudan iyi,0.9846232533454896
+kutudan iyi hafta,0.987051486968994
+iyi hafta boyunca,0.9824872612953186
+hafta boyunca ,0.0
+boyunca ,0.0
+değildim iade istediğimde,-0.94406920671463
+iade istediğimde hayır,-0.9770634770393372
+istediğimde hayır dediler,-0.989905059337616
+hayır dediler çok,-0.9857978224754332
+dediler çok geç,-0.9363886713981628
+çok geç 1,-0.6822715401649475
+geç 1 günden,-0.9130738973617554
+1 günden az,-0.8032811284065247
+günden az süre,-0.4412809014320373
+az süre geçti,0.0
+süre geçti boşver,-0.9948920011520386
+geçti boşver paranıza,-0.9980325102806092
+boşver paranıza yazık,-0.998080849647522
+yazık etmeyin kutunun,-0.9704604744911194
+etmeyin kutunun yaptığı,-0.996468186378479
+kutunun yaptığı tüm,0.8686214089393616
+yaptığı tüm yapıyor,0.4622203111648559
+alınan ürün yeni,0.5074940323829651
+ürün yeni değil,-0.9917957186698914
+yeni değil ambalajı,-0.991134762763977
+değil ambalajı kırık,-0.998310923576355
+ambalajı kırık açıkça,-0.9978591799736024
+kırık açıkça kullanılmış,-0.9779045581817628
+açıkça kullanılmış tv,-0.996110498905182
+kullanılmış tv kutusu,-0.905303955078125
+tv kutusu çizilmiş,-0.9767706394195556
+kutusu çizilmiş kablolar,-0.980358362197876
+çizilmiş kablolar sarılmamış,-0.59234219789505
+kablolar sarılmamış kullanım,0.950079381465912
+sarılmamış kullanım izleri,0.0
+kullanım izleri herhangi,-0.5990097522735596
+izleri herhangi talimat,-0.6090084314346313
+herhangi talimat spesifikasyon,-0.5757961869239807
+talimat spesifikasyon kitabı,0.0
+spesifikasyon kitabı yok,-0.9958969354629515
+kitabı yok yeni,-0.9977706670761108
+yok yeni ürün,-0.998256504535675
+yeni ürün olarak,0.8040648698806763
+ürün olarak satılamaz,-0.9613320827484132
+yazık çok sık,-0.9980230331420898
+çok sık arızalar,0.0
+sık arızalar meydana,0.0
+arızalar meydana geldi,0.0
+meydana geldi kapanıyor,0.0
+ürün orjinal gonun,0.983511447906494
+orjinal gonun rahatlığıyla,0.994998335838318
+gonun rahatlığıyla alabilirsiniz,0.9956010580062866
+rengi aşırı parlak,-0.9963544607162476
